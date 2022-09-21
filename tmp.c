@@ -4,7 +4,7 @@ int main()
 {
 	printf("Hello, world!\n");
 	printf("Guten, Tag\n");
-	printf("안녕하세요!\n");
+	printf("안녕하십시오!\n");
 
 	return 0;
 }
