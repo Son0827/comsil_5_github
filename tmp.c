@@ -3,8 +3,8 @@
 int main()
 {
 	printf("Hello, world!\n");
-	printf("Guten, Morgen!\n");
-	printf("안녕하십시오!\n");
+	printf("Guten, Tag!\n");
+	printf("수고하십니다!\n");
 
 	return 0;
 }
